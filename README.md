@@ -20,8 +20,11 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="95" alt="Type">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="95" alt="React">
   <img src="https://img.icons8.com/color/2x/vue-js.png" width="95" alt="Vue">
+  <img align="right" src="https://gifdb.com/images/high/gojo-satoru-escaping-home-idxdpobl78i7wgqk.webp" width="150" alt="Gif">
   
 </table>
+
+
 
 
 
