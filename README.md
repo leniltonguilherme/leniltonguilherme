@@ -2,9 +2,9 @@
 ### Hello, Guys! I'm Lenilton Guilherme 🏆, Be Very Welcome!!!🚀 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](instagram.com/leniltonguilherme)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](www.linkedin.com/in/lenilton-guilherme)
+)](https://www.instagram.com/leniltonguilherme/)
+[![Linkedin]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/lenilton-guilherme/)
 [![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white
 )](https://www.tiktok.com/@leniltonguilherme)
 
